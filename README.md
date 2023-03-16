@@ -6,7 +6,7 @@
 windows应急工具箱
 Windows平台上的开源Ark工具，Ark是Anti-Rootkit（对抗恶意程序）的简写，目标成为逆向工程师、编程人员的工具，同时也能为那些希望清理恶意软件的用户服务。
 
-![image-20230316111522009](C:\Users\clear\AppData\Roaming\Typora\typora-user-images\image-20230316111522009.png)
+![image](https://github.com/c1earyy/OpenArk64/blob/main/image/image-20230316111522009.png)
 
 ## 功能：
 
@@ -23,12 +23,12 @@ Windows平台上的开源Ark工具，Ark是Anti-Rootkit（对抗恶意程序）�
 
 在应急时，不管是2008，xp，还是win7，在找计划任务、系统信息、系统版本等能事半功倍
 
-![image-20230316111803315](C:\Users\clear\AppData\Roaming\Typora\typora-user-images\image-20230316111803315.png)
+![image](https://github.com/c1earyy/OpenArk64/blob/main/image/image-20230316111803315.png)
 
 网络连接信息、cpu信息一目了然
 
-![image-20230316112229129](C:\Users\clear\AppData\Roaming\Typora\typora-user-images\image-20230316112229129.png)
+![image](https://github.com/c1earyy/OpenArk64/blob/main/image/image-20230316112229129.png)
 
 进程信息
 
-![image-20230316112422935](C:\Users\clear\AppData\Roaming\Typora\typora-user-images\image-20230316112422935.png)
+![image](https://github.com/c1earyy/OpenArk64/blob/main/image/image-20230316151650041.png)
